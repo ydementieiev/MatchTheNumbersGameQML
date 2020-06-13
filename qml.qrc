@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/GameArea.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/Block.qml</file>
+    </qresource>
+</RCC>
